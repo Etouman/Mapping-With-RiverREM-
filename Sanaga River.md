@@ -3,3 +3,5 @@ The Sanaga River is the longest river in Cameroon. It rises in the Adamawoua reg
 
 - Data: Copernicus 30m DEM (OpenTopography)
 - Tools: RiverREM, QGIS, Canva
+
+![0-Sanaga RiverREM](https://github.com/user-attachments/assets/1340bdbe-e40d-45a1-b127-7495f0864cbc)
